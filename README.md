@@ -6,6 +6,7 @@ My name is Marko and I am a Software Developer from Novi Sad, Serbia.
 - 📄 Resume: https://resume.tiiny.site/
 - 📧 Email: stupin.marko56@gmail.com
 - 💻 Open to learning new programing languages and frameworks.
+- ✨ Currently working on a portfolio website and learning more about JS and React.
 
 <!--
 **marko-stupin/marko-stupin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
