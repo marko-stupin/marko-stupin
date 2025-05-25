@@ -3,7 +3,6 @@
 ## Hi! 👋
 My name is Marko and I am a Software Developer from Novi Sad, Serbia.
 
-- 📄 Resume: https://resume.tiiny.site/
 - 📧 Email: stupin.marko56@gmail.com
 - 💻 Open to learning new programing languages and frameworks.
 
